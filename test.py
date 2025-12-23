@@ -1,4 +1,4 @@
-age = 18
+age = -10
 name = "Anton"
 
 print(f"Возраст: {age}")
