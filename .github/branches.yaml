@@ -1,5 +1,5 @@
 branch_protection:
-  politicies:
+  policies:
     - target: default_branch
       message: "Нельзя пушить напрямую в main! Создавай Pull Request"
       rules:
